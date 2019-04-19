@@ -12,7 +12,7 @@ const Header = (props) => {
 };
 
 Header.defaultProps = {
-  branding: 'My App'
+  branding: 'Testing'
 };
 
 Header.propTypes = {
